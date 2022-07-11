@@ -18,6 +18,7 @@ namespace ejercicio1dejoaquinzampelunghe
 			Console.WriteLine($"la distancia que recorre el móvil es {distancia} m/s:");
 			distanciakms = distancia / 1000;
 			Console.WriteLine($"la distancia recorrida en m/s, en kms equivale a {distanciakms} kms:");
+			Console.WriteLine();
 
 			Console.ReadLine();
 		}
